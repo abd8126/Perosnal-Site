@@ -1,5 +1,5 @@
 body{
-  color: #40514E;
+  color: #40514e;
   margin: 0;
   text-align: center;
   font-family: "Lucida Handwriting";
@@ -14,15 +14,15 @@ h1{
 
 h2{
   color: #66bfbf;
-  font-family: 'Montserrat', SansSerif;
+  font-family: ItalicT;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
 h3{
-  color: #11999E;
-  font-family: 'Montserrat',SansSerif;
+  color: #99a349;
+  font-family: Romantic;
 }
 
 .iam{
@@ -61,16 +61,19 @@ a:hover{
 }
 
 .bottom-container{
-  background-color: #EAF6F6;
+  background-color: #F1FFEB;
   padding: 50px 0 20px;
 }
 
 .skill-row{
   width: 60%;
-  margin: 100px auto 100px auto;
+  margin: 120px auto 120px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1;
+  font-family: Century;
 }
+
+
 
 
 
@@ -78,8 +81,9 @@ a:hover{
 
 
 .intro{
-  width: 30%;
+  width: 50%;
   margin: auto;
+  color: forestgreen;
 }
 
 .contact-message{
